@@ -13,10 +13,3 @@ public class Main {
         System.out.println(n+cnt);
     }
 }
-
-
-
-Input: 9999 (4 digits)
-
-
-Output: 9999 + 4 = 10003
